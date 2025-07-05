@@ -1,0 +1,31 @@
+h1 {
+    text-align: left;
+    font-family: "Yantramanav", sans-serif;
+    color: rgb(149, 41, 212);
+    padding: 70px 30px
+}
+
+p {
+    text-align: left;
+    font-family: "Yantramanav", sans-serif;
+    color: #000;
+    padding: 0px 30px
+}
+.topnav {
+    background-color: white;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #fcfbfbf5;
+    color: gray;
+} 
